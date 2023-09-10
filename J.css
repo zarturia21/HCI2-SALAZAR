@@ -1,0 +1,350 @@
+.pink-rectangle {
+    position:  absolute;
+    z-index: -1;
+    width: 100%;
+    height: 70%;
+    top: 0%;
+    left: 0%;
+    opacity: 100%;
+    background-color: #e5d2c4;
+    display: block;
+  }
+  .gray-rectangle {
+    position:  absolute;
+    z-index: -1;
+    width: 100%;
+    height: 4%;
+    top: 70%;
+    left: 0%;
+    opacity: 100%;
+    background-color: #EFE9E9;
+    display: block;
+  }
+
+  .logo {
+    position: absolute;
+  z-index: -1;
+  top: 3%;
+  left: 1%;
+  width: 10%;
+  height: 10%;
+  object-fit:fill;
+}
+
+.Top {
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    color: #080808;
+    font-family: poppins;
+    letter-spacing: 8px;
+    font-weight:bold;
+}
+.Step {
+    position: absolute;
+    top: 35%;
+    left: 5%;
+    color: #080808;
+    font-family: poppins;
+    width: 50%;
+    letter-spacing: 3px;
+    font-weight:lighter;
+    text-align: justify;
+}
+.web {
+    position: absolute;
+  z-index: -1;
+  top: 20%;
+  left: 70%;
+  width: 20%;
+  height: auto;
+  object-fit:fill;
+}
+
+.b1 {
+    position: absolute;
+    top: 5.5%;
+    padding: 0.3vw;
+    left: 52%;
+    color: #080808;
+    font-family: poppins;
+    width: 5%;
+    letter-spacing: 3px;
+    cursor: pointer;
+    font-weight:normal;
+    text-align: justify;
+}
+
+.b2 {
+    position: absolute;
+    top: 5.5%;
+    padding: 0.3vw;
+    left: 63%;
+    color: #080808;
+    font-family: poppins;
+    width: 5%;
+    cursor: pointer;
+    letter-spacing: 3px;
+    font-weight:normal;
+    text-align: justify;
+}
+.b3 {
+    position: absolute;
+    top: 5.5%;
+    padding: 0.3vw;
+    left: 74%;
+    color: #080808;
+    font-family: poppins;
+    width: 5%;
+    cursor: pointer;
+    letter-spacing: 3px;
+    font-weight:normal;
+    text-align: justify;
+}
+.b4 {
+    position: absolute;
+    left: 85%;
+    color: #080808;
+    font-family: poppins;
+    width: 5%;
+    letter-spacing: 3px;
+    cursor: pointer;
+    font-weight:normal;
+    text-align: justify;
+    top: 5.5%;
+    padding: 0.3vw;
+}
+
+.b1:hover,.b2:hover,.b3:hover,.b4:hover {
+    
+    border: solid;
+    border-radius: 0.5vw;
+    border-width: 1.5px;
+}
+
+.part {
+    position: absolute;
+    top: 71%;
+    left: 3%;
+    color: #626262;
+    font-family: poppins;
+    width: 9%;
+    letter-spacing: 2px;
+    font-weight:normal;
+    text-align: justify;
+}
+.Victoria {
+    position: absolute;
+    top: 71%;
+    left: 20%;
+    color: #626262;
+    font-family: poppins;
+    width: 9%;
+    letter-spacing: 2px;
+    font-weight:normal;
+    text-align: justify;
+}
+.Reggata {
+    position: absolute;
+    top: 71%;
+    left: 37%;
+    color: #626262;
+    font-family: poppins;
+    width: 9%;
+    letter-spacing: 2px;
+    font-weight:normal;
+    text-align: justify;
+}
+.Lapis {
+    position: absolute;
+    top: 71%;
+    left: 54%;
+    color: #626262;
+    font-family: poppins;
+    width: 9%;
+    letter-spacing: 2px;
+    font-weight:normal;
+    text-align: justify;
+}
+.No {
+    position: absolute;
+    top: 71%;
+    left: 71%;
+    color: #626262;
+    font-family: poppins;
+    width: 9%;
+    letter-spacing: 2px;
+    font-weight:normal;
+    text-align: justify;
+}
+.Common {
+    position: absolute;
+    top: 71%;
+    left: 88%;
+    color: #626262;
+    font-family: poppins;
+    width: 9%;
+    letter-spacing: 2px;
+    font-weight:normal;
+    text-align: justify;
+}
+.woman {
+    position: absolute;
+  z-index: -1;
+  top: 80%;
+  left: 5%;
+  width: 12%;
+  height: auto;
+  object-fit:fill;
+}
+.access {
+    position: absolute;
+  z-index: -1;
+  top: 80%;
+  left: 25%;
+  width: 12%;
+  height: auto;
+  object-fit:fill;
+}
+.man {
+    position: absolute;
+  z-index: -1;
+  top: 80%;
+  left: 45%;
+  width: 12%;
+  height: auto;
+  object-fit:fill;
+}
+.shoes {
+    position: absolute;
+  z-index: -1;
+  top: 80%;
+  left: 65%;
+  width: 12%;
+  height: auto;
+  object-fit:fill;
+}
+.bags {
+    position: absolute;
+  z-index: -1;
+  top: 80%;
+  left: 85%;
+  width: 12%;
+  height: auto;
+  object-fit:fill;
+}
+.pink2-rectangle {
+    position:  absolute;
+    z-index: -1;
+    width: 100%;
+    height: 70%;
+    top: 125%;
+    left: 0%;
+    opacity: 100%;
+    background-color: #e5d2c4;
+    display: block;
+  }
+  .daily {
+    position: absolute;
+    top: 145%;
+    left: 10%;
+    color: #080808;
+    font-family: poppins;
+    letter-spacing: 24px;
+    font-weight:bold;
+}
+.logo2 {
+    position: absolute;
+  z-index: -1;
+  top: 158%;
+  left: 49%;
+  width: 4%;
+  height: auto;
+  object-fit:fill;
+}
+.Fashion {
+    position: absolute;
+    top: 175%;
+    left: 37%;
+    color: #080808;
+    font-family: poppins;
+    letter-spacing: 24px;
+    font-weight:lighter;
+}
+.white-rectangle {
+    position:  absolute;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    top: 195%;
+    left: 0%;
+    opacity: 100%;
+    background-color: #F1F1F1;
+    display: block;
+  }
+  .high {
+    position: absolute;
+    top: 200%;
+    left: 25%;
+    color: #D1B49E;
+    font-family: poppins;
+    letter-spacing: 15px;
+    font-weight:bold;
+}
+.cotton {
+    position: absolute;
+  z-index: -1;
+  top: 215%;
+  left: 10%;
+  width: 20%;
+  height: auto;
+  object-fit:fill;
+  filter: brightness(93%);
+}
+.leather {
+    position: absolute;
+  z-index: -1;
+  top: 215%;
+  left: 40%;
+  width: 20%;
+  height: auto;
+  object-fit:fill;
+  filter: brightness(90%);
+}
+.fiber {
+    position: absolute;
+  z-index: -1;
+  top: 215%;
+  left: 70%;
+  width: 20%;
+  height: auto;
+  object-fit:fill;
+  filter: brightness(93%);
+}
+.cottontxt {
+    position: absolute;
+    top: 257%;
+    left: 14%;
+    color: #D1B49E;
+    font-family: poppins;
+    letter-spacing: 15px;
+    font-weight:bold;
+}
+.leathertxt {
+    position: absolute;
+    top: 257%;
+    left: 43%;
+    color: #D1B49E;
+    font-family: poppins;
+    letter-spacing: 15px;
+    font-weight:bold;
+}
+.fibertxt {
+    position: absolute;
+    top: 257%;
+    left: 70%;
+    color: #D1B49E;
+    font-family: poppins;
+    letter-spacing: 15px;
+    font-weight:bold;
+}
